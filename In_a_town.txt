@@ -1,0 +1,5 @@
+What do you want to do while you are here?.
+    (1) I want to know more about where I can go.
+    (2) I would like to travel somewhere else.
+    (9) Status.
+    (0) No
